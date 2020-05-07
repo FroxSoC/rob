@@ -4,7 +4,7 @@
 * cocotb: https://pypi.org/project/cocotb/
 * argparse: https://pypi.org/project/argparse/
 * pyyaml: https://pypi.org/project/PyYAML/
-* EDA sim: modelsim, incisive, vcs... (with full support of SystemVerilog (e.x. parametrized types) and VPI support)
+* EDA sim: modelsim, incisive, vcs... (with full support of SystemVerilog (e.g. parametrized types) and VPI support)
 
 ## Help
 make PY_TB_ARGS='--help'
