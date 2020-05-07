@@ -1,0 +1,8 @@
+src_files:
+  src:
+    - arb.sv
+    - penc.sv
+    - interfaces.sv
+    - sync_fifo.sv
+
+

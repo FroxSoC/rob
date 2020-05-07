@@ -1,0 +1,6 @@
+src_files:
+  filelist:
+    - ./common/rtl.files
+    - ./rob/rtl.files
+
+

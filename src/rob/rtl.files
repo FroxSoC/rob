@@ -1,0 +1,5 @@
+src_files:
+  pkg:
+    - rob_pkg.sv
+  src:
+    - rob.sv

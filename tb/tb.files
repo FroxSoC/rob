@@ -1,0 +1,6 @@
+src_files:
+  src:
+    - tb.sv
+  filelist:
+    - ../src/rtl.files  
+
